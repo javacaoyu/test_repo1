@@ -7,9 +7,11 @@ public static hello(){
 	System.out.println("IM always 很帅");
 }
 }
-
-
-	
 }
 }
+
+/*
+这帮小子写的代码真帅
+*/
+
 
