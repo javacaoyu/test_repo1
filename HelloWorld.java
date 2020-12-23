@@ -4,7 +4,12 @@ class HelloWorld{
 }
 
 public static hello(){
-	System.out.println("IM 帅哥");
+	System.out.println("IM always 很帅");
+}
+}
+
+
+	
 }
 }
 
