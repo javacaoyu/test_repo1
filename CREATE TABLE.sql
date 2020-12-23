@@ -1,5 +1,5 @@
 -- 创建表
-CREATE TABKE stu (
+CREATE TABLE stu (
 	id int,
 	name string,
 	sex string
